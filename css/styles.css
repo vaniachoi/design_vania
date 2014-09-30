@@ -1,0 +1,98 @@
+.top-left-header{
+	float:left;
+}
+
+.top-left-header td a{
+	padding:5px;
+	border-right:1px solid black;
+	text-decoration:none;
+	color:black;
+}
+
+.page{
+	width:80%;
+	margin-left:auto;
+	margin-right:auto;
+	background-color:#7fcae8;
+	font-family:arial;
+	font-size:12px;
+	
+}
+
+.top-left-header td a:hover{
+	color:blue;
+}
+
+.top-right-header{
+	float:right;
+}
+
+.topheader{
+	background-color:#fff;
+	width:100%;
+	float:left;
+	margin-bottom:7px;
+}
+
+.top-right-header td a{
+	padding:5px;
+	border-right:1px solid black;
+	text-decoration:none;
+	color:black;
+}
+
+.top-right-header td a:hover{
+	color:blue;
+}
+
+.gambar-logo{
+	width:15%;
+	float:left;
+}
+
+.center-header{
+	float:left;
+	width:100%;
+}
+
+.all{
+}
+
+.three-button{
+	float:right;
+	width:28%;
+	margin-right:0px;
+	margin-top:23px;
+}
+
+.iconbutton{
+	width:20px;
+	padding:5px;
+	padding-left:10px;
+	
+}
+
+.button1{
+	float:left;
+	background-color:#3D7BCA;
+	padding:15px 15px 16px 15px;
+	margin-right:2px;
+}
+
+.button2{
+	float:left;
+	background-color:#C91C17;
+	padding:15px;
+	margin-right:2px;
+}
+.button3{
+	float:left;
+	background-color:#1F2E7D;
+	padding:15px;
+}
+
+.button1:hover, .button2:hover, .button3:hover{
+	background-color:#8C8E4B;
+	margin-top:3px;
+}
+
